@@ -1,3 +1,4 @@
+AI: Chat GPT
 /* RESET + FONT */
 body {
     margin: 0;
